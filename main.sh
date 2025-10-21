@@ -1,0 +1,1 @@
+Main netology  script functionality 
